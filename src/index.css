@@ -29,3 +29,9 @@ h2 {
     margin: 0.8rem 0;
     line-height: 1;
 }
+
+h3 {
+    color: #ffc857;
+    font-size: 1.6rem;
+    font-weight: 400;
+}
