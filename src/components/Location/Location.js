@@ -9,7 +9,7 @@ const location = (props) => (
                     title="google_map"
                     width="100%"
                     height="500"
-                    src="http://maps.google.com/maps?q=42.9775, 21.9770&t=h&z=14&output=embed"
+                    src="https://maps.google.com/maps?q=42.9775, 21.9770&t=h&z=14&output=embed"
                     frameBorder="0"
                     scrolling="no"
                     marginHeight="0"
