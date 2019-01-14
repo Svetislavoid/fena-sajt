@@ -1,15 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "050f81bba119d67bd894",
-    "url": "/fena-sajt/static/css/main.cee10bfd.chunk.css"
+    "revision": "2e7e60c9d5f792fbad53",
+    "url": "/fena-sajt/static/css/main.b56c3a0a.chunk.css"
   },
   {
-    "revision": "050f81bba119d67bd894",
-    "url": "/fena-sajt/static/js/main.050f81bb.chunk.js"
+    "revision": "2e7e60c9d5f792fbad53",
+    "url": "/fena-sajt/static/js/main.2e7e60c9.chunk.js"
   },
   {
-    "revision": "9dc3d7a788ff14f347c3",
-    "url": "/fena-sajt/static/js/1.9dc3d7a7.chunk.js"
+    "revision": "6644d3c55e3584a852f6",
+    "url": "/fena-sajt/static/css/1.5609d349.chunk.css"
+  },
+  {
+    "revision": "6644d3c55e3584a852f6",
+    "url": "/fena-sajt/static/js/1.6644d3c5.chunk.js"
   },
   {
     "revision": "1161c7c145193130020c",
@@ -40,7 +44,7 @@ self.__precacheManifest = [
     "url": "/fena-sajt/static/media/fena-logo.c82b2e3c.svg"
   },
   {
-    "revision": "ae361ece1dedaaeeacac84494d339591",
+    "revision": "7f3f50b4b72149fee521ad4ea5f6ad14",
     "url": "/fena-sajt/index.html"
   }
 ];
