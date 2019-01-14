@@ -1,44 +1,28 @@
 .Content {
-    width: 80%;
+    margin: 2rem auto;
     max-width: 1280px;
-    border: 1px solid black;
-    margin: auto;
+}
+
+.Row1,
+.Row2 {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
 }
 
-.Dtco3 {
-    order: 1;
-}
-
-.Tahografi {
-    order: 2;
-}
-
-.ONama {
-    order: 3;
-}
-
-.Mtco1324 {
-    order: 4;
+.Row2 {
+    flex-direction: row-reverse;
 }
 
 .Dtco3,
 .Mtco1324 {
-    flex-basis: 35%;
+    flex-basis: 230px;
+    flex-grow: 1;
+    padding: 2rem;
 }
 
 .Tahografi,
 .ONama {
-    flex-basis: 50%;
-    display: inline;
-}
-
-.Tahografi h2,
-.ONama h2 {
-    font-size: 3.5rem;
-    font-weight: 400;
-    color: #387d7a;
-    margin: 2rem 0;
+    flex-basis: 230px;
+    flex-grow: 4;
+    padding: 2rem;
 }

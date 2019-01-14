@@ -1,17 +1,18 @@
 .Logo {
-    box-sizing: border-box;
-    text-align: center;
-    margin: 20px auto;
     background: url("../../assets/fena-bg.svg") repeat;
+    margin: 20px auto;
+    text-align: center;
 }
 
 .Logo h1 {
     color: #387d7a;
     font-weight: 400;
-    font-size: 2.3rem;
-    margin: 1rem 0;
+    font-size: 2.2rem;
+    margin: 0 0 1rem 0;
+    line-height: 100%;
 }
 
 .Logo img {
-    width: 40%;
+    width: 100%;
+    max-width: 480px;
 }

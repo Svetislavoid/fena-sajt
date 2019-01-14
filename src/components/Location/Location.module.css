@@ -1,16 +1,25 @@
-.Location {
-
+.LocationInfo {
+    max-width: 800px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
 }
 
-.mapouter {
-    text-align: right;
-    height: 500px;
-    width: 100%;
+.LocationInfo i {
+    flex-basis: 100px;
+    height: 100px;
+    align-self: center;
+    flex-grow: 1;
+    padding: 2rem 2rem 0 2rem;
+    text-align: center;
 }
 
-.gmap_canvas {
-    overflow: hidden;
-    background: none!important;
-    height: 500px;
-    width: 100%;
+.Info {
+    flex-basis: 350px;
+    flex-grow: 6;
+    padding: 2rem;
+}
+
+.Location iframe {
+    margin: 2rem 0;
 }
