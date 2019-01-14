@@ -1,0 +1,14 @@
+.Footer {
+    background: #1f2222 url('../../assets/fena-bg.svg') repeat;
+    color: #fff;
+}
+
+.Content {
+    width: 70%;
+    margin: 20px auto;
+}
+
+.Copyright {
+    background: rgba(18, 20, 20, 0.2);
+    height: 50px;
+}
