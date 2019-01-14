@@ -1,6 +1,6 @@
 ## Live preview
 
-[Servis tahografa Fena](https://github.com/Svetislavoid/fena-sajt)
+[Servis tahografa Fena](https://svetislavoid.github.io/fena-sajt)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

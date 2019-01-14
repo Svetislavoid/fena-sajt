@@ -2,7 +2,7 @@
   "name": "fena-sajt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Svetislavoid/fena-sajt",
+  "homepage": "https://svetislavoid.github.io/fena-sajt",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
