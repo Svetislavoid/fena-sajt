@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Svetislavoid/fena-sajt/precache-manifest.e3e4e6f742d0916fa48dd0f3c7e66303.js"
+  "/fena-sajt/precache-manifest.87520db47ce573badeb60cc32cb26b4b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Svetislavoid/fena-sajt/index.html", {
+workbox.routing.registerNavigationRoute("/fena-sajt/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
