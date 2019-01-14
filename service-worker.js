@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fena-sajt/precache-manifest.87520db47ce573badeb60cc32cb26b4b.js"
+  "/fena-sajt/precache-manifest.bd93cbb0f9c6d58521abd61812147eca.js"
 );
 
 workbox.clientsClaim();
