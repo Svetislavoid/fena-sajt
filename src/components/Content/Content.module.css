@@ -1,5 +1,5 @@
 .Content {
-    margin: 2rem auto;
+    margin: 2.5rem auto;
     max-width: 1280px;
 }
 
@@ -16,8 +16,9 @@
 .Dtco3,
 .Mtco1324 {
     flex-basis: 230px;
-    flex-grow: 1;
     padding: 2rem;
+    flex-grow: 0.4;
+    margin: auto;
 }
 
 .Tahografi,

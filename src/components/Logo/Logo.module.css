@@ -2,6 +2,7 @@
     background: url("../../assets/fena-bg.svg") repeat;
     margin: 20px auto;
     text-align: center;
+    animation: fadein 4s;
 }
 
 .Logo h1 {
@@ -14,5 +15,14 @@
 
 .Logo img {
     width: 100%;
-    max-width: 480px;
+    max-width: 500px;
+}
+
+@keyframes fadein {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
