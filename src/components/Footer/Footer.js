@@ -7,7 +7,7 @@ const footer = (props) => {
     const year = (new Date()).getFullYear();
 
     return (
-        <div className={classes.Footer}>
+        <footer className={classes.Footer}>
             <div className={classes.Content}>
                 <div className={classes.Contact}>
                     <h3>Pozovite i zakažite</h3>
@@ -28,7 +28,7 @@ const footer = (props) => {
                 </div>
             </div>
             <div className={classes.Copyright}>&copy; {year} Fena DOO Leskovac</div>
-        </div>
+        </footer>
     );
 }
 

@@ -1,0 +1,17 @@
+.Icon {
+    display: none;
+}
+
+@media (max-width: 1000px) {
+    .Icon {
+        display: inline-block;
+        position: absolute;
+        top: 14px;
+        left: 14px;
+        height: 36px;
+    }
+
+    .Icon:hover {
+        cursor: pointer;
+    }
+}

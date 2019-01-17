@@ -1,0 +1,38 @@
+.NavigationItem {
+    box-sizing: border-box;
+    display: inline-block;
+    height: 100%;
+    padding: 0 1rem;
+    list-style: none;
+}
+
+.NavigationItem a {
+    color: #ffc857;
+    text-decoration: none;
+}
+
+.NavigationItem:hover,
+ .NavigationItem:active {
+    cursor: pointer;
+    background-color: #262c2c;
+}
+
+@media (max-width: 1000px) {
+    .NavigationItem {
+        width: 100%;
+        padding: 0;
+    }
+
+    .NavigationItem a {
+        color: #222;
+        font-size: 18px;
+        display: block;
+        height: 100%;
+        padding: 15px;
+    }
+
+    .NavigationItem:hover,
+    .NavigationItem:active {
+        background-color: #6aaf9c;
+    }
+}
