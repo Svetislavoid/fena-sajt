@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "40a99e5f2d5b79400f8f",
-    "url": "/fena-sajt/static/css/main.75592994.chunk.css"
+    "revision": "358d6ed9ba72da62e846",
+    "url": "/fena-sajt/static/css/main.fcc42f0b.chunk.css"
   },
   {
-    "revision": "40a99e5f2d5b79400f8f",
-    "url": "/fena-sajt/static/js/main.40a99e5f.chunk.js"
+    "revision": "358d6ed9ba72da62e846",
+    "url": "/fena-sajt/static/js/main.358d6ed9.chunk.js"
   },
   {
     "revision": "52705ce0bb8861dfd6ad",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/fena-sajt/static/media/autoput.d04ac256.jpg"
   },
   {
-    "revision": "442c858fae953c1c26234be34355c143",
+    "revision": "a53a2162a3ea6b7374c72d5287aeafe1",
     "url": "/fena-sajt/index.html"
   }
 ];

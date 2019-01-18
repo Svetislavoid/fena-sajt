@@ -1,7 +1,7 @@
 {
-  "main.css": "/fena-sajt/static/css/main.75592994.chunk.css",
-  "main.js": "/fena-sajt/static/js/main.40a99e5f.chunk.js",
-  "main.js.map": "/fena-sajt/static/js/main.40a99e5f.chunk.js.map",
+  "main.css": "/fena-sajt/static/css/main.fcc42f0b.chunk.css",
+  "main.js": "/fena-sajt/static/js/main.358d6ed9.chunk.js",
+  "main.js.map": "/fena-sajt/static/js/main.358d6ed9.chunk.js.map",
   "static/css/1.7e9e1690.chunk.css": "/fena-sajt/static/css/1.7e9e1690.chunk.css",
   "static/js/1.52705ce0.chunk.js": "/fena-sajt/static/js/1.52705ce0.chunk.js",
   "static/js/1.52705ce0.chunk.js.map": "/fena-sajt/static/js/1.52705ce0.chunk.js.map",
@@ -13,9 +13,9 @@
   "static/media/dtco3.svg": "/fena-sajt/static/media/dtco3.d27da8bc.svg",
   "static/media/1324mtco.svg": "/fena-sajt/static/media/1324mtco.6c5b3ef5.svg",
   "static/media/Picture.module.css": "/fena-sajt/static/media/autoput.d04ac256.jpg",
-  "static/css/main.75592994.chunk.css.map": "/fena-sajt/static/css/main.75592994.chunk.css.map",
+  "static/css/main.fcc42f0b.chunk.css.map": "/fena-sajt/static/css/main.fcc42f0b.chunk.css.map",
   "static/css/1.7e9e1690.chunk.css.map": "/fena-sajt/static/css/1.7e9e1690.chunk.css.map",
   "index.html": "/fena-sajt/index.html",
-  "precache-manifest.329b14c442076eb7e87d34905e967b66.js": "/fena-sajt/precache-manifest.329b14c442076eb7e87d34905e967b66.js",
+  "precache-manifest.ee6a3206bc574996e189009e76cb4241.js": "/fena-sajt/precache-manifest.ee6a3206bc574996e189009e76cb4241.js",
   "service-worker.js": "/fena-sajt/service-worker.js"
 }
