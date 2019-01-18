@@ -16,6 +16,7 @@
 .Dtco3,
 .Mtco1324 {
     flex-basis: 230px;
+    min-width: 0;
     padding: 2rem;
     flex-grow: 0.4;
     margin: auto;
