@@ -1,6 +1,7 @@
 import React from 'react';
 import classes from './Footer.module.css';
 import Logo from '../../assets/fena-logo.svg';
+import SVG from 'react-inlinesvg';
 
 const footer = (props) => {
 
@@ -24,7 +25,9 @@ const footer = (props) => {
                     <h3>Resursi</h3>
                     <a href='http://www.abs.gov.rs/%D1%81%D1%80/tahografi/propisi' target='_blank' rel="noopener noreferrer">Spisak propisa koji se tiču tahografa</a>
                     <a href='https://www.paragraf.rs/obrasci/5253_ID.pdf' target='_blank' rel="noopener noreferrer">Potvrda o aktivnostima vozača</a>
-                    <img src={Logo} alt="Servis Fena logo" />
+                    <SVG className={classes.Logo} src={Logo} >
+                        <img src={Logo} alt="Servis Fena logo" />
+                    </SVG>
                 </div>
             </div>
             <div className={classes.Copyright}>&copy; {year} Fena DOO Leskovac</div>

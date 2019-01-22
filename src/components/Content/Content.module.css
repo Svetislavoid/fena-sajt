@@ -22,6 +22,12 @@
     margin: auto;
 }
 
+.Dtco3 svg,
+.Mtco1324 svg {
+    width: 100%;
+    height: 100%;
+}
+
 .Tahografi,
 .ONama {
     flex-basis: 230px;

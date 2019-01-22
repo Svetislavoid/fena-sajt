@@ -1,11 +1,11 @@
-.Logo {
+.LogoFull {
     background: url("../../assets/fena-bg.svg") repeat;
     margin: 20px auto;
     text-align: center;
     animation: fadein 4s;
 }
 
-.Logo h1 {
+.LogoFull h1 {
     color: #387d7a;
     font-weight: 400;
     font-size: 2.2rem;
@@ -13,8 +13,18 @@
     line-height: 100%;
 }
 
-.Logo img {
+.LogoFull {
     width: 100%;
+}
+
+.LogoFull img { // u slučaju da se u nekim browserima svg renderuje kao img
+    width: 100%;
+    max-width: 500px;
+}
+
+.Logo svg {
+    width: 100%;
+    height: 100%;
     max-width: 500px;
 }
 
